@@ -9,6 +9,7 @@
 <p align="center">
   <img src="./assets/scr1.jpg" width="30%" />
   <img src="./assets/scr2.jpg" width="30%" />
+  <img src="./assets/scr3.jpg" width="30%" />
 </p>
 
 ## Features
