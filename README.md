@@ -14,6 +14,8 @@
 
 ## Features
 - AI chat assistant and text answers chatbot
+- Supports 8+ AI Models including known models like gemini, llama, deepseek, and others
+- Free to use
 
 ## Installation
 
@@ -26,4 +28,4 @@
 
 **Client:** Flutter, Android, Web
 
-**APIs:** Gemini 2.0 Flash by Google Generative Studio
+**APIs:** Gemini 2.0 Flash, Gemma 3, Llama 3.2, Deepseek V3, R1, Mistral 4b, Qwen 30b, +more
